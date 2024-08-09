@@ -9,6 +9,15 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 [Proyecto desplegado (https://Isabel-Garcia.netlify.app/)](https://lovely-semolina-9c7fca.netlify.app)
 
 ## Secciones de mi sitio
+![Presentación](assets/readme/1.png)
+
+![Habilidades](assets/readme/2.png)
+
+![Proyectos](assets/readme/3.png)
+
+![Testimonios](assets/readme/4.png)
+
+![Contacto](assets/readme/5.png)
 
 ## Tecnologías
 

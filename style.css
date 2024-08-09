@@ -3,13 +3,12 @@ body{
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-
+    background-color: rgb(255, 255, 255);
 }
 
 
 #presentacion {
     height: 90vh;
-    background-image: url("https://static.vecteezy.com/system/resources/previews/009/279/467/non_2x/an-abstract-cures-of-pastel-color-stylish-templates-design-with-modern-shapes-and-line-in-nude-pastel-colors-mode-neutral-background-in-minimalist-templates-and-contemporary-illustration-free-vector.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -20,6 +19,7 @@ body{
     font-weight: 400;
     font-style: normal;
   }
+
   
   
   
